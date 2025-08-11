@@ -22,5 +22,10 @@
         }
       ]
     }
-  
-
+  ],
+  "ignore": [
+    "backend/**",
+    "node_modules/**",
+    "*.log"
+  ]
+}
